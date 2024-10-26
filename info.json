@@ -1,0 +1,8 @@
+{
+  "name": "discord-integration",
+  "version": "0.0.1",
+  "title": "Discord Integration by ZBrachinara",
+  "author": "Zbrachinara",
+  "factorio_version": "2.0",
+  "description": "Handrolled discord integration to serve as bridge while modders update"
+}
